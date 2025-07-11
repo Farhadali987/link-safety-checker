@@ -83,6 +83,10 @@ Copy
 Edit
 
 ---
+## 🌐 Live Demo
+
+👉 Try the app here:  
+🔗 [https://link-safety-checker-ih5a8xpehwbspvu4xpmyvq.streamlit.app](https://link-safety-checker-ih5a8xpehwbspvu4xpmyvq.streamlit.app)
 
 ### ✅ What To Do Now:
 
